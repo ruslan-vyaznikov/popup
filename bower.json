@@ -1,0 +1,19 @@
+{
+  "name": "popup",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ruslan-vyaznikov/popup",
+  "authors": [
+    "ruslan <ruslan.vyaznikov@jobemet.com>"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
